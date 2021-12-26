@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Website and others
-- 📫 How to reach me ...here you can 😝
+- 📫 How to reach me ...here can you 😝
 
 <!---
 nianyueri/nianyueri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
